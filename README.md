@@ -32,7 +32,7 @@ This result suggests a partial but limited alignment between the regulatory focu
 ### Data Coverage
 - FDA approvals: ~1990–2023 (via openFDA API)
 - WHO EML: 2023, 21st edition
-- 
+
 
 ## Methodology
 
